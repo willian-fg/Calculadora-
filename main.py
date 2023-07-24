@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import StringVar
 
-#  cores
+#  cores ..
 
 cor1 = '#3b3b3b'  #Preto'''
 cor2 = "#feffff"  #Branco'''
